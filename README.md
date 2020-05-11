@@ -1,6 +1,6 @@
 # Plex Collection Posters
 
-This is an open place where we can collectively update and share Plex collection posters that use the same style. I don't take credit for these posters as the original design was done by a Reddit user, like to the Imgur here. This was continuously another kind stranger in the form of a shared MEGA link here. The MEGA link works well, but I think it's unfair to rely on a single person to update the posters, which is why this project was created. To allow everyone to create collections that are missing so that everyone can benefit.
+This is an open place where we can collectively update and share Plex collection posters that use the same style. I don't take credit for these posters as the original design was done by a Reddit user, link to the [Imgur here](https://imgur.com/a/R2s1T1h). This was continuously another kind stranger in the form of a shared [MEGA link here](https://mega.nz/folder/2IE0gCyC#ulyL5JWhDkfEH5w58PKi2A). The MEGA link works well, but I think it's unfair to rely on a single person to update the posters, which is why this project was created. To allow everyone to create collections that are missing so that everyone can benefit.
 
 To the original creators, I did want to get permission from yourselves first, but your Reddit accounts have been deleted. If you'd like me to remove this project, please do let me know.
 
