@@ -7,6 +7,8 @@ To the original creators, I did want to get permission from yourselves first, bu
 
 ## How to create
 
+It's important to note that consistency of the collection is paramount, so please ensure that any artwork you've created uses the templates. All designs should include the name of the film or collection on the artwork, not just an image of the poster (with no text) and the words collection underneath. See existing files if unsure. File naming is also important with the name of the show as the name of the file. If you're designing an alternative version see instructions in the section below.
+
 1. Please download the starter file. The original collection artwork maker again created this, but I've just added a version to download here. I didn't create it, and all credit goes to him/her.
 
 2. Open a program that allows you to work with image layers (Sketch, Photoshop, etc.).
@@ -14,6 +16,22 @@ To the original creators, I did want to get permission from yourselves first, bu
 3. Place the collection image at the top of the layers list and place your desired artwork underneath.
 
 4. Export (save) as a jpg and upload to here for everyone else to benefit from too.
+
+### Creating alternative versions
+
+Sometimes an existing design doesn't look right, so you might want to create you're own. If so, please use the instructions below to create your designs but then pay close attention to the naming of the file (export). All alternative versions use A# format. A to indicate that this is an alternative version and the # referring to the number as there may be a number of alternative versions.
+
+For example:
+
+- Thor.jpg
+- Thor A1.jpg
+- Thor A2.jpg
+
+## Requesting collection artwork
+
+If you don't have any design software available or simply don't have time to create them, please submit any design requests as issues. This will allow other people to chip in and create requests when they have the opportunity.
+
+It would also be helpful if you linked any image(s) you want as the background so it's easier to create and you get exactly what you want.
 
 ## Finding artwork
 
